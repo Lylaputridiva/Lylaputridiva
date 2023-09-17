@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+```
+semangat
+u can do it
+```
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
